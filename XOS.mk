@@ -1,4 +1,4 @@
-$(call inherit-product, device/motorola/falcon/full_titan.mk)
+$(call inherit-product, device/motorola/titan/full_titan.mk)
 
 # Inherit some common stuff.
 $(call inherit-product, vendor/xos/config/common.mk)
